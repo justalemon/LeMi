@@ -31,7 +31,7 @@ public static class Vehicles
     public static Vehicle SpawnVehicle(Model model, bool getInto)
     #endif
     {
-        if (!model.IsCar)
+        if (!model.IsVehicle)
         {
             return null;
         }
