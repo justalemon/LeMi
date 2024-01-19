@@ -17,6 +17,10 @@ public static class Vehicles
     /// </summary>
     public static void DeleteCurrent() => Game.Player.Character.CurrentVehicle?.Delete();
     /// <summary>
+    /// Repairs the current vehicle.
+    /// </summary>
+    public static void FixCurrent() => Game.Player.Character.CurrentVehicle?.Repair();
+    /// <summary>
     /// Spawns a vehicle by it's model.
     /// </summary>
     /// <param name="model">The model of the vehicle.</param>
