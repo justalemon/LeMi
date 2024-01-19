@@ -27,4 +27,8 @@ public static class PlayerPed
         #endif
         ped.Task.ClearAllImmediately();
     }
+    /// <summary>
+    /// Kills the current player ped.
+    /// </summary>
+    public static void Kill() => Game.Player.Character.Kill();
 }
