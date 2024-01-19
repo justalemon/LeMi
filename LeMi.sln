@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeMi.FiveM.Client", "LeMi.FiveM.Client\LeMi.FiveM.Client.csproj", "{88EED419-29CB-4EF2-B536-407D07FBE2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeMi.FiveM.Server", "LeMi.FiveM.Server\LeMi.FiveM.Server.csproj", "{EF3E9FDB-28BC-4EF4-8DCF-83D17A610EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeMi.SHVDN3", "LeMi.SHVDN3\LeMi.SHVDN3.csproj", "{A7FCDFEC-CF73-4FF9-B9D4-B71B3A90EE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EED419-29CB-4EF2-B536-407D07FBE2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EED419-29CB-4EF2-B536-407D07FBE2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EED419-29CB-4EF2-B536-407D07FBE2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EED419-29CB-4EF2-B536-407D07FBE2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3E9FDB-28BC-4EF4-8DCF-83D17A610EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3E9FDB-28BC-4EF4-8DCF-83D17A610EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3E9FDB-28BC-4EF4-8DCF-83D17A610EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3E9FDB-28BC-4EF4-8DCF-83D17A610EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FCDFEC-CF73-4FF9-B9D4-B71B3A90EE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FCDFEC-CF73-4FF9-B9D4-B71B3A90EE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FCDFEC-CF73-4FF9-B9D4-B71B3A90EE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FCDFEC-CF73-4FF9-B9D4-B71B3A90EE36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
