@@ -1,6 +1,6 @@
 ﻿using CitizenFX.Core;
 
-namespace LeMi.FiveM.Server;
+namespace LeMi.Server;
 
 /// <summary>
 /// The Base Script for Lemon's Modding Tools.

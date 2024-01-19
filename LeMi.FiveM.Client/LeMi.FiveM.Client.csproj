@@ -5,6 +5,7 @@
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <AssemblyName>LeMi.FiveM.Client.net</AssemblyName>
+    <RootNamespace>LeMi.Client</RootNamespace>
     <DefineConstants>FIVEM,CLIENT</DefineConstants>
     <Version>0.0.1</Version>
     <OutputPath>..\bin\$(Configuration)\FiveM\</OutputPath>

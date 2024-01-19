@@ -5,6 +5,7 @@
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <AssemblyName>LeMi.SHVDN3</AssemblyName>
+    <RootNamespace>LeMi.Client</RootNamespace>
     <DefineConstants>SHVDN3,CLIENT</DefineConstants>
     <Version>0.0.1</Version>
     <OutputPath>..\bin\$(Configuration)\SHVDN3\</OutputPath>
